@@ -31,7 +31,7 @@ namespace view
             SourceGroupBox.Controls.Clear();
             SourceGroupBox.Controls.Add(_dissertationControl);
             _dissertationControl.Location = new Point(3, 11);
-            _dissertationControl.Size = new Size(SourceGroupBox.Width - 20, _dissertationControl.Height);
+            _dissertationControl.Size = new Size(SourceGroupBox.Width - 10, _dissertationControl.Height);
             _dissertationControl.Anchor = AnchorStyles.Left | AnchorStyles.Right | AnchorStyles.Top | AnchorStyles.Bottom;
             _dissertationControl.Visible = true;
         }
@@ -42,7 +42,7 @@ namespace view
             SourceGroupBox.Controls.Clear();
             SourceGroupBox.Controls.Add(_multiControl);
             _multiControl.Location = new Point(3, 11);
-            _multiControl.Size = new Size(SourceGroupBox.Width - 20, _multiControl.Height);
+            _multiControl.Size = new Size(SourceGroupBox.Width - 10, _multiControl.Height);
             _multiControl.Anchor = AnchorStyles.Left | AnchorStyles.Right | AnchorStyles.Top | AnchorStyles.Bottom;
             _multiControl.Visible = true;
         }
@@ -52,7 +52,7 @@ namespace view
             SourceGroupBox.Controls.Clear();
             SourceGroupBox.Controls.Add(_normControl);
             _normControl.Location = new Point(3, 11);
-            _normControl.Size = new Size(SourceGroupBox.Width - 20, _normControl.Height);
+            _normControl.Size = new Size(SourceGroupBox.Width - 10, _normControl.Height);
             _normControl.Anchor = AnchorStyles.Left | AnchorStyles.Right | AnchorStyles.Top | AnchorStyles.Bottom;
             _normControl.Visible = true;
         }
@@ -81,6 +81,16 @@ namespace view
         {
             this.DialogResult = DialogResult.OK;
             Close();
+        }
+
+        private void CancelButton_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void SourceGroupBox_Enter(object sender, EventArgs e)
+        {
+
         }
 
        

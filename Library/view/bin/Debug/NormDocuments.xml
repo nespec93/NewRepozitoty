@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfNormDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NormDocument>
+    <ImprintYear>2015</ImprintYear>
+    <YearAndMonth>2015</YearAndMonth>
+    <NumberOfpages>12345</NumberOfpages>
+    <Number>1</Number>
+    <NameOfDoc>Спать</NameOfDoc>
+    <TitleOfDoc>Спи</TitleOfDoc>
+    <InfoForDoc>Надо спать...</InfoForDoc>
+    <Year>2015</Year>
+    <pages>12345</pages>
+  </NormDocument>
+</ArrayOfNormDocument>

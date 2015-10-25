@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfDissertation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dissertation>
+    <ImprintYear>2015</ImprintYear>
+    <NumberOfpages>100</NumberOfpages>
+    <Author>Вася</Author>
+    <ThesisTitle>Лечение косуль</ThesisTitle>
+    <ScientificDegrees>Доктор косулевых наук</ScientificDegrees>
+    <PlaceOfPublication>Тундра</PlaceOfPublication>
+    <Publisher>ПишемВтундре</Publisher>
+    <Year>2015</Year>
+    <pages>100</pages>
+  </Dissertation>
+</ArrayOfDissertation>

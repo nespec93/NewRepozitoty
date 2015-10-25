@@ -75,7 +75,7 @@ namespace Model
         /// <returns></returns>
         public string GetDescription()
         {
-            return Author   + TypeOfPublication + "[Текст] : в" + CountOfVolume + "т. / " + Author + "; [вступ. ст., подгот. текста и коммент." + Editor + ";  —" + PublishingHouse + ". (" + Name + ")." + "T1 : " + TomPagesCount[0] + " стр" + " T2 : "+ TomPagesCount[0] + " стр" ;
+            return TypeOfPublication + "[Текст] : в" + CountOfVolume + "т. / " + Author + "; [вступ. ст., подгот. текста и коммент." + Editor + ";  —" + PublishingHouse + ". (" + Name + ")."; //+ "T1 : " + TomPagesCount[0] + " стр" + " T2 : "+ TomPagesCount[1] + " стр" ;
         }
     }
 }

@@ -33,6 +33,18 @@ namespace view
             };
         }
 
+        public void SetNormDocument(NormDocument normDocument)
+        {
+            AuthorTextBox.Text = normDocument.NameOfDoc;
+            TitleTextBox.Text = normDocument.TitleOfDoc;
+            ScientificTextBox.Text = normDocument.InfoForDoc;
+            PlaceTextBox.Text = normDocument.YearAndMonth;
+            PublisherTextBox.Text = normDocument.Number.ToString();
+            YearTextBox.Text = normDocument.ImprintYear.ToString();
+            NumberOfPagesTextBox.Text = normDocument.NumberOfpages.ToString();
+        }
+
+       
     
 
        

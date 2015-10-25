@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfMultiEdition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MultiEdition>
+    <ImprintYear>0</ImprintYear>
+    <Author>Карпов</Author>
+    <Editor>Редактор</Editor>
+    <Name>Методичка</Name>
+    <TypeOfPublication>Учебное пособие</TypeOfPublication>
+    <PublishingHouse>Тусур</PublishingHouse>
+    <TomPagesCount />
+    <CountOfVolume>2</CountOfVolume>
+    <Year>0</Year>
+  </MultiEdition>
+</ArrayOfMultiEdition>

@@ -59,9 +59,9 @@
             // 
             this.EditorTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.EditorTextBox.Location = new System.Drawing.Point(113, 30);
+            this.EditorTextBox.Location = new System.Drawing.Point(114, 30);
             this.EditorTextBox.Name = "EditorTextBox";
-            this.EditorTextBox.Size = new System.Drawing.Size(100, 20);
+            this.EditorTextBox.Size = new System.Drawing.Size(303, 20);
             this.EditorTextBox.TabIndex = 1;
             // 
             // AuthorTextBox
@@ -70,7 +70,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.AuthorTextBox.Location = new System.Drawing.Point(113, 4);
             this.AuthorTextBox.Name = "AuthorTextBox";
-            this.AuthorTextBox.Size = new System.Drawing.Size(285, 20);
+            this.AuthorTextBox.Size = new System.Drawing.Size(303, 20);
             this.AuthorTextBox.TabIndex = 2;
             // 
             // NameTextBox
@@ -79,40 +79,46 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.NameTextBox.Location = new System.Drawing.Point(113, 56);
             this.NameTextBox.Name = "NameTextBox";
-            this.NameTextBox.Size = new System.Drawing.Size(285, 20);
+            this.NameTextBox.Size = new System.Drawing.Size(303, 20);
             this.NameTextBox.TabIndex = 3;
             // 
             // HouseTextBox
             // 
+            this.HouseTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.HouseTextBox.Location = new System.Drawing.Point(315, 82);
             this.HouseTextBox.Name = "HouseTextBox";
-            this.HouseTextBox.Size = new System.Drawing.Size(83, 20);
+            this.HouseTextBox.Size = new System.Drawing.Size(100, 20);
             this.HouseTextBox.TabIndex = 4;
             // 
             // PlaceLabel
             // 
-            this.PlaceLabel.Location = new System.Drawing.Point(113, 106);
+            this.PlaceLabel.Location = new System.Drawing.Point(113, 109);
             this.PlaceLabel.Name = "PlaceLabel";
             this.PlaceLabel.Size = new System.Drawing.Size(100, 20);
             this.PlaceLabel.TabIndex = 5;
             // 
             // YearTextBox
             // 
-            this.YearTextBox.Location = new System.Drawing.Point(315, 105);
+            this.YearTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.YearTextBox.Location = new System.Drawing.Point(315, 109);
             this.YearTextBox.Name = "YearTextBox";
-            this.YearTextBox.Size = new System.Drawing.Size(42, 20);
+            this.YearTextBox.Size = new System.Drawing.Size(100, 20);
             this.YearTextBox.TabIndex = 6;
             // 
             // CountTextBox
             // 
-            this.CountTextBox.Location = new System.Drawing.Point(315, 128);
+            this.CountTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.CountTextBox.Location = new System.Drawing.Point(315, 135);
             this.CountTextBox.Name = "CountTextBox";
-            this.CountTextBox.Size = new System.Drawing.Size(26, 20);
+            this.CountTextBox.Size = new System.Drawing.Size(100, 20);
             this.CountTextBox.TabIndex = 7;
             // 
             // PagesTextBox
             // 
-            this.PagesTextBox.Location = new System.Drawing.Point(113, 132);
+            this.PagesTextBox.Location = new System.Drawing.Point(113, 135);
             this.PagesTextBox.Name = "PagesTextBox";
             this.PagesTextBox.Size = new System.Drawing.Size(100, 20);
             this.PagesTextBox.TabIndex = 8;
@@ -120,7 +126,7 @@
             // AuthorLabel
             // 
             this.AuthorLabel.AutoSize = true;
-            this.AuthorLabel.Location = new System.Drawing.Point(4, 4);
+            this.AuthorLabel.Location = new System.Drawing.Point(5, 7);
             this.AuthorLabel.Name = "AuthorLabel";
             this.AuthorLabel.Size = new System.Drawing.Size(41, 13);
             this.AuthorLabel.TabIndex = 9;
@@ -129,7 +135,7 @@
             // EditorLabel
             // 
             this.EditorLabel.AutoSize = true;
-            this.EditorLabel.Location = new System.Drawing.Point(5, 33);
+            this.EditorLabel.Location = new System.Drawing.Point(4, 33);
             this.EditorLabel.Name = "EditorLabel";
             this.EditorLabel.Size = new System.Drawing.Size(37, 13);
             this.EditorLabel.TabIndex = 10;
@@ -138,7 +144,7 @@
             // NameLabel
             // 
             this.NameLabel.AutoSize = true;
-            this.NameLabel.Location = new System.Drawing.Point(4, 59);
+            this.NameLabel.Location = new System.Drawing.Point(5, 59);
             this.NameLabel.Name = "NameLabel";
             this.NameLabel.Size = new System.Drawing.Size(38, 13);
             this.NameLabel.TabIndex = 11;
@@ -165,7 +171,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(2, 109);
+            this.label1.Location = new System.Drawing.Point(5, 112);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(103, 13);
             this.label1.TabIndex = 14;
@@ -174,7 +180,7 @@
             // ImprintYear
             // 
             this.ImprintYear.AutoSize = true;
-            this.ImprintYear.Location = new System.Drawing.Point(219, 108);
+            this.ImprintYear.Location = new System.Drawing.Point(219, 112);
             this.ImprintYear.Name = "ImprintYear";
             this.ImprintYear.Size = new System.Drawing.Size(64, 13);
             this.ImprintYear.TabIndex = 15;
@@ -183,7 +189,7 @@
             // pagesLabel
             // 
             this.pagesLabel.AutoSize = true;
-            this.pagesLabel.Location = new System.Drawing.Point(4, 135);
+            this.pagesLabel.Location = new System.Drawing.Point(5, 138);
             this.pagesLabel.Name = "pagesLabel";
             this.pagesLabel.Size = new System.Drawing.Size(93, 13);
             this.pagesLabel.TabIndex = 16;
@@ -194,7 +200,7 @@
             this.CountLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.CountLabel.AutoSize = true;
-            this.CountLabel.Location = new System.Drawing.Point(219, 135);
+            this.CountLabel.Location = new System.Drawing.Point(219, 138);
             this.CountLabel.Name = "CountLabel";
             this.CountLabel.Size = new System.Drawing.Size(87, 13);
             this.CountLabel.TabIndex = 17;
@@ -223,7 +229,7 @@
             this.Controls.Add(this.EditorTextBox);
             this.Controls.Add(this.TypeTextBox);
             this.Name = "MultiEditionControl";
-            this.Size = new System.Drawing.Size(401, 155);
+            this.Size = new System.Drawing.Size(420, 160);
             this.ResumeLayout(false);
             this.PerformLayout();
 

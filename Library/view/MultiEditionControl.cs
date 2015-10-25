@@ -17,6 +17,7 @@ namespace view
         {
             InitializeComponent();
         }
+
         public MultiEdition GetMultiEdition()
         {
             return new MultiEdition()
@@ -27,10 +28,17 @@ namespace view
                 TypeOfPublication = (TypeTextBox.Text),
                 PublishingHouse = (HouseTextBox.Text),
                 CountOfVolume = Convert.ToInt32(CountTextBox.Text),
-                
-                
-
             };
+        }
+
+        public void SetMultiEdition(MultiEdition multiEdition)
+        {
+            AuthorTextBox.Text = multiEdition.Author;
+            EditorTextBox.Text = multiEdition.Editor;
+            NameTextBox.Text = multiEdition.Name;
+            TypeTextBox.Text = multiEdition.TypeOfPublication;
+            HouseTextBox.Text = multiEdition.PublishingHouse;
+            CountTextBox.Text = multiEdition.CountOfVolume.ToString();
         }
    
 

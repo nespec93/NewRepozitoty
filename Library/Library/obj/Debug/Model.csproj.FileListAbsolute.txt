@@ -20,3 +20,8 @@ C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library
 C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\Library\obj\Debug\Library.dll
 C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\Library\obj\Debug\Library.pdb
 C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\Library\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Slava\Library\Library\bin\Debug\Library.dll
+C:\Users\1\Desktop\Slava\Library\Library\bin\Debug\Library.pdb
+C:\Users\1\Desktop\Slava\Library\Library\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Slava\Library\Library\obj\Debug\Library.dll
+C:\Users\1\Desktop\Slava\Library\Library\obj\Debug\Library.pdb
