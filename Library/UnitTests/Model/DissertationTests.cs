@@ -17,7 +17,7 @@ namespace UnitTests.Model
         [TestCase(5, TestName = "Тестирование при Count = 5.PositiveValue")]
         [TestCase(-1, ExpectedException = typeof(ArgumentException), TestName = "Тестирование при Count = -1.NegativeValue")]
         [TestCase(-22, ExpectedException = typeof(ArgumentException), TestName = "Тестирование при Count = -22.NegativeValue")]
-        [TestCase(-55, ExpectedException = typeof(ArgumentException), TestName = "Тестирование при Count = -55.NegativeValue")]
+        [TestCase(-55, ExpectedException = typeof(ArgumentException), TestName = "Тестирование при Count = -55.NegativeValue", Ignore = true)]
 
         public void NumberOfPages(int count)
         {
@@ -42,7 +42,7 @@ namespace UnitTests.Model
         }
 
         /// <summary>
-        /// Тест метода GetDescription() для статьи диссертации.
+        /// Тест метода GetDescription() для диссертации.
         /// </summary>
         [Test]
         public void GetDescriptionTest()

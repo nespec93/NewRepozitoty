@@ -31,3 +31,12 @@ C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\bin\Debug\Library
 C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\bin\Debug\Library.exe
 C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\obj\Debug\Library.exe
 C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\obj\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\ClassLibrary4\bin\Debug\Library.exe.config
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\ClassLibrary4\bin\Debug\Library.exe
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\ClassLibrary4\bin\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\ClassLibrary4\bin\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\ClassLibrary4\bin\Debug\nunit.framework.dll
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\ClassLibrary4\bin\Debug\nunit.framework.xml
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\ClassLibrary4\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\ClassLibrary4\obj\Debug\Library.exe
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\ClassLibrary4\obj\Debug\Library.pdb

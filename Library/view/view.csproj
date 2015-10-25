@@ -68,6 +68,12 @@
     <Compile Include="MultiEditionControl.Designer.cs">
       <DependentUpon>MultiEditionControl.cs</DependentUpon>
     </Compile>
+    <Compile Include="NormativeDocumentControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NormativeDocumentControl.Designer.cs">
+      <DependentUpon>NormativeDocumentControl.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AddSourceForm.resx">
@@ -81,6 +87,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MultiEditionControl.resx">
       <DependentUpon>MultiEditionControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NormativeDocumentControl.resx">
+      <DependentUpon>NormativeDocumentControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

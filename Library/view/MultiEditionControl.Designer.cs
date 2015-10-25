@@ -34,7 +34,7 @@
             this.NameTextBox = new System.Windows.Forms.TextBox();
             this.HouseTextBox = new System.Windows.Forms.TextBox();
             this.PlaceLabel = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.YearTextBox = new System.Windows.Forms.TextBox();
             this.CountTextBox = new System.Windows.Forms.TextBox();
             this.PagesTextBox = new System.Windows.Forms.TextBox();
             this.AuthorLabel = new System.Windows.Forms.Label();
@@ -96,12 +96,12 @@
             this.PlaceLabel.Size = new System.Drawing.Size(100, 20);
             this.PlaceLabel.TabIndex = 5;
             // 
-            // textBox7
+            // YearTextBox
             // 
-            this.textBox7.Location = new System.Drawing.Point(315, 105);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(42, 20);
-            this.textBox7.TabIndex = 6;
+            this.YearTextBox.Location = new System.Drawing.Point(315, 105);
+            this.YearTextBox.Name = "YearTextBox";
+            this.YearTextBox.Size = new System.Drawing.Size(42, 20);
+            this.YearTextBox.TabIndex = 6;
             // 
             // CountTextBox
             // 
@@ -129,7 +129,7 @@
             // EditorLabel
             // 
             this.EditorLabel.AutoSize = true;
-            this.EditorLabel.Location = new System.Drawing.Point(4, 33);
+            this.EditorLabel.Location = new System.Drawing.Point(5, 33);
             this.EditorLabel.Name = "EditorLabel";
             this.EditorLabel.Size = new System.Drawing.Size(37, 13);
             this.EditorLabel.TabIndex = 10;
@@ -215,7 +215,7 @@
             this.Controls.Add(this.AuthorLabel);
             this.Controls.Add(this.PagesTextBox);
             this.Controls.Add(this.CountTextBox);
-            this.Controls.Add(this.textBox7);
+            this.Controls.Add(this.YearTextBox);
             this.Controls.Add(this.PlaceLabel);
             this.Controls.Add(this.HouseTextBox);
             this.Controls.Add(this.NameTextBox);
@@ -237,7 +237,7 @@
         private System.Windows.Forms.TextBox NameTextBox;
         private System.Windows.Forms.TextBox HouseTextBox;
         private System.Windows.Forms.TextBox PlaceLabel;
-        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox YearTextBox;
         private System.Windows.Forms.TextBox CountTextBox;
         private System.Windows.Forms.TextBox PagesTextBox;
         private System.Windows.Forms.Label AuthorLabel;

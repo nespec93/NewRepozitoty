@@ -22,7 +22,7 @@ namespace view
             LiterarySources = new DataTable();
             var column = new DataColumn()
             {
-                Caption = "LiterarySource",
+                Caption = "Literary Source",
                 ColumnName = "LiterarySource",
                 ReadOnly = true,
                 DataType = typeof (string)
@@ -30,7 +30,7 @@ namespace view
             LiterarySources.Columns.Add(column);
             column = new DataColumn()
             {
-                Caption = "GetDescription",
+                Caption = "Description",
                 ColumnName = "GetDescription",
                 ReadOnly = true,
                 DataType = typeof (string)
@@ -51,18 +51,7 @@ namespace view
             {
                 var newRow = LiterarySources.NewRow();
                 source = sourceForm.GetLiterarySource();
-                if (source is Dissertation)
-                {
-                    newRow[0] = "Dissertation";
-                }
-                //if (source is JournalArticle)
-                //{
-                //    newRow[0] = "JournalArticle";
-                //}
-                //if (source is ElectronicResource)
-                //{
-                //    newRow[0] = "ElectronicResource";
-                //}
+                newRow[0] = source.GetType();
                 newRow[1] = source.GetDescription();
                 LiterarySources.Rows.Add(newRow);
             }

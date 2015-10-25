@@ -20,19 +20,24 @@ namespace view
 
         public Dissertation GetDissertation()
         {
-            return new Dissertation()
+            //var year = Convert.ToInt32(YearTextBox.Text);
+           // var pages = Convert.ToInt32(NumberOfPagesTextBox.Text);
+            return new Dissertation
             {
+                
                 Author = AuthorTextBox.Text,
                 ThesisTitle = TitleTextBox.Text,
                 ScientificDegrees = ScientificTextBox.Text,
                 PlaceOfPublication = PlaceTextBox.Text,
                 Publisher = PublisherTextBox.Text,
-                ImprintYear = Convert.ToInt32(YearTextBox.Text),
-                NumberOfpages = Convert.ToInt32(NumberOfPagesTextBox.Text)
+                NumberOfpages = Convert.ToInt32(NumberOfPagesUpDown.Value)
+               // ImprintYear = year,
+              //  NumberOfpages = pages
             };
 
         }
-
+        
+       
 
     }
 }

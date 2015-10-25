@@ -60,6 +60,7 @@
             this.NormRadioButton.TabStop = true;
             this.NormRadioButton.Text = "Norm document";
             this.NormRadioButton.UseVisualStyleBackColor = true;
+            this.NormRadioButton.CheckedChanged += new System.EventHandler(this.NormRadioButton_CheckedChanged);
             // 
             // MultiRadioButton
             // 

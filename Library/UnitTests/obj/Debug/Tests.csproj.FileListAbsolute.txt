@@ -6,3 +6,12 @@ C:\Users\Вячеслав\Desktop\СПО\Library\UnitTests\bin\Debug\nunit.frame
 C:\Users\Вячеслав\Desktop\СПО\Library\UnitTests\bin\Debug\Library.pdb
 C:\Users\Вячеслав\Desktop\СПО\Library\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\Вячеслав\Desktop\СПО\Library\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\UnitTests\bin\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\UnitTests\bin\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\UnitTests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\UnitTests\obj\Debug\UnitTests.pdb

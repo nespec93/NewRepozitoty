@@ -15,3 +15,8 @@ C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Libr
 C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\Library\obj\Debug\Model.csprojResolveAssemblyReference.cache
 C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\Library\obj\Debug\Library.dll
 C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\Library\obj\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\Library\bin\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\Library\bin\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\Library\obj\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\Library\obj\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Если я всё сломаю\Library\Library\obj\Debug\Model.csprojResolveAssemblyReference.cache
