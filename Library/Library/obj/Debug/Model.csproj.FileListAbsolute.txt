@@ -1,0 +1,17 @@
+C:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\Library\bin\Debug\Library.dll
+C:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\Library\bin\Debug\Library.pdb
+C:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.dll
+C:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.pdb
+C:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Library\Library\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Library\Library\obj\Debug\Library.dll
+D:\Documents\Visual Studio 2013\Projects\Library\Library\obj\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Library\Library\bin\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\СПО\Library\Library\bin\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Library\Library\obj\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\СПО\Library\Library\obj\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\Library\bin\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\Library\bin\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\Library\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\Library\obj\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\Library\obj\Debug\Library.pdb

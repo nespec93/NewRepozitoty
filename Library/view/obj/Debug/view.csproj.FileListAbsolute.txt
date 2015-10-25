@@ -1,0 +1,14 @@
+C:\Users\Вячеслав\Desktop\СПО\Library\view\bin\Debug\view.exe.config
+C:\Users\Вячеслав\Desktop\СПО\Library\view\bin\Debug\view.exe
+C:\Users\Вячеслав\Desktop\СПО\Library\view\bin\Debug\view.pdb
+C:\Users\Вячеслав\Desktop\СПО\Library\view\bin\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\СПО\Library\view\bin\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Library\view\obj\Debug\view.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\СПО\Library\view\obj\Debug\view.Properties.Resources.resources
+C:\Users\Вячеслав\Desktop\СПО\Library\view\obj\Debug\view.csproj.GenerateResource.Cache
+C:\Users\Вячеслав\Desktop\СПО\Library\view\obj\Debug\view.exe
+C:\Users\Вячеслав\Desktop\СПО\Library\view\obj\Debug\view.pdb
+C:\Users\Вячеслав\Desktop\СПО\Library\view\obj\Debug\view.SourceForm.resources
+C:\Users\Вячеслав\Desktop\СПО\Library\view\obj\Debug\view.AddSourceForm.resources
+C:\Users\Вячеслав\Desktop\СПО\Library\view\obj\Debug\view.DissertationControl.resources
+C:\Users\Вячеслав\Desktop\СПО\Library\view\obj\Debug\view.MultiEditionControl.resources

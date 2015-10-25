@@ -1,0 +1,2 @@
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\СПО\Library\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache

@@ -1,0 +1,33 @@
+c:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\ClassLibrary4\bin\Debug\ClassLibrary4.exe.config
+c:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\ClassLibrary4\obj\Debug\Library.csprojResolveAssemblyReference.cache
+c:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\ClassLibrary4\bin\Debug\ClassLibrary4.exe
+c:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+c:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\ClassLibrary4\bin\Debug\Library.dll
+c:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\ClassLibrary4\bin\Debug\Library.pdb
+c:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\ClassLibrary4\obj\Debug\ClassLibrary4.exe
+c:\Users\Вячеслав\documents\visual studio 2013\Projects\Library\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
+D:\Documents\Visual Studio 2013\Projects\Library\ClassLibrary4\bin\Debug\ClassLibrary4.exe.config
+D:\Documents\Visual Studio 2013\Projects\Library\ClassLibrary4\obj\Debug\ClassLibrary4.exe
+D:\Documents\Visual Studio 2013\Projects\Library\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
+D:\Documents\Visual Studio 2013\Projects\Library\ClassLibrary4\bin\Debug\ClassLibrary4.exe
+D:\Documents\Visual Studio 2013\Projects\Library\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+D:\Documents\Visual Studio 2013\Projects\Library\ClassLibrary4\bin\Debug\Library.dll
+D:\Documents\Visual Studio 2013\Projects\Library\ClassLibrary4\bin\Debug\Library.pdb
+D:\Documents\Visual Studio 2013\Projects\Library\ClassLibrary4\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\bin\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\bin\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\ClassLibrary4\bin\Debug\ClassLibrary4.exe.config
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\ClassLibrary4\obj\Debug\ClassLibrary4.exe
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\ClassLibrary4\bin\Debug\ClassLibrary4.exe
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\ClassLibrary4\bin\Debug\Library.dll
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\ClassLibrary4\bin\Debug\Library.pdb
+C:\Users\Вячеслав\Desktop\рабочий стол\Учёба\СПО\Library\ClassLibrary4\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\bin\Debug\nunit.framework.dll
+C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\bin\Debug\nunit.framework.xml
+C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\bin\Debug\Library.exe.config
+C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\bin\Debug\Library.exe
+C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\obj\Debug\Library.exe
+C:\Users\Вячеслав\Desktop\СПО\Library\ClassLibrary4\obj\Debug\Library.pdb
